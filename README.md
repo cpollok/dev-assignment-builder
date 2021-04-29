@@ -7,6 +7,8 @@ When you start hacking trees, they will start hacking trees. When you pick up wo
 
 All of the assets and code were created by me.
 
+Video: https://youtu.be/mCcPjbvlYE4
+
 Controls
 --------
 WASD - Movement
