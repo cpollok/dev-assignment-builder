@@ -9,6 +9,8 @@ All of the assets and code were created by me.
 
 Video: https://youtu.be/mCcPjbvlYE4
 
+itch.io: https://snowtoast.itch.io/dev-assignment-builder-game (Password: "snow")
+
 Controls
 --------
 WASD - Movement
